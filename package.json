@@ -1,1 +1,6 @@
-
+{
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.2025",
+    "@cloudflare/wrangler": "^3.0.0"
+  }
+}   
